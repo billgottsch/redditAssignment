@@ -40,11 +40,19 @@ html, body {
   padding: 5px 15px 5px 15px;
 }
 
-.nav-item:hover {
+.nav-item a:hover {
   color:#FFC70E;
-  border-bottom: 2px solid #FFC70E;
 }
 
+.nav-item:hover {
+  border-bottom: 2px solid #FFC70E;
+
+}
+.nav-item a {
+  text-decoration: none;
+  color: #eee;
+
+}
 .pile {
   width: 75%;
 
@@ -113,7 +121,7 @@ p {
   margin-left: 3rem;
 }
 
-a {
+.urlthing {
   text-decoration: none;
   margin-left: 3rem;
 }

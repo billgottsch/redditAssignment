@@ -14,7 +14,7 @@ $.getJSON(
         group.append($('<p></p>').text(res.data.author));
         group.append($('<p></p>').text(res.data.created));
         group.append($('<p></p>').text(res.data.type));
-        group.append($('<a></a>').attr('href', res.data.url).text(res.data.url));
+        group.append($('<a class="urlthing"></a>').attr('href', res.data.url).text(res.data.url));
 
         $(".reddit").append(group);
       }
