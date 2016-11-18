@@ -12,6 +12,11 @@ html, body {
   position:relative;
 }
 
+.header_bgtitle {
+  position: absolute;
+  z-index: 3;
+}
+
 .navigation {
   position: absolute;
   width: 100%;
