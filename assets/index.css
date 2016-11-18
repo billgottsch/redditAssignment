@@ -1,0 +1,147 @@
+html, body {
+  font-size: 12px;
+  font-family: 'Futura';
+  background-color: #eee;
+  margin: 0;
+}
+
+.header_background {
+  width: 100%;
+  border-bottom: 3px solid #FFC70E;
+  margin-bottom: 2rem;
+  position:relative;
+}
+
+.navigation {
+  position: absolute;
+  width: 100%;
+}
+
+.nav-list {
+  display: flex;
+  margin-top: 121px;
+  z-index: 3;
+  color: #222;
+  padding-top: 10px;
+  background:#333;
+  border-radius: 3px;
+  background-size:auto;
+  position: absolute;
+
+}
+
+.nav-item {
+  position:relative;
+  color: #eee;
+  list-style: none;
+  border-bottom: 4px solid #333;
+  font-size: 16px;
+  align-items: flex-start;
+  padding: 5px 15px 5px 15px;
+}
+
+.nav-item:hover {
+  color:#FFC70E;
+  border-bottom: 2px solid #FFC70E;
+}
+
+.pile {
+  width: 75%;
+
+  display: block;
+  padding: 1rem;
+  background-color: white;
+  border-bottom: .25px solid grey;
+  border-right: .25px solid teal;
+  border-left: 3px solid teal;
+  margin-left: 1rem;
+  margin-right: 2rem;
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+}
+
+.content-container {
+  display: flex;
+}
+
+.rightbar {
+  text-align: center;
+  width: 33%;
+  margin-right: 2rem;
+}
+
+.signin {
+  display: block;
+}
+
+.signin_form {
+  border: 1px solid #eee;
+  border-radius: 5px;
+}
+
+h2 {
+  color: #24A0ED;
+  margin-left: 3rem;
+}
+
+.events {
+  margin-top: 5rem;
+  background: whitesmoke;
+  border: 1px solid #eee;
+  border-radius: 3px;
+  padding: 10px;
+}
+
+h4 {
+  color: #696969;
+  font-size: 20px;
+}
+
+h5 {
+  color: #24A0ED;
+  font-size: 16px;
+}
+
+
+.event-text {
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  color: #98ABBA;
+  margin-left: 3rem;
+}
+
+a {
+  text-decoration: none;
+  margin-left: 3rem;
+}
+
+
+.reddit {
+  width: 100%;
+  word-wrap: break-word;
+}
+
+.link-disc {
+  text-align: center;
+  border: 2px solid black;
+  margin: 0;
+  padding: 0;
+}
+
+.thumbs {
+  border-radius: 5px;
+}
+
+.thumbplace {
+  width: 60px;
+  height: 60px;
+}
+
+.thefoot {
+  margin-top: 2rem;
+  border-top: 3px solid #FFC70E;
+  width: 100%;
+}
