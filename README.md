@@ -1,6 +1,6 @@
 ##Reddit Clone
 
-I chose to do this Reddit API pul assignment for Overwatch, a very popular game created by Blizzard Entertainment. API calls were very new to us (potentially the first one we've done?) when this was created.
+I chose to do this Reddit API pull assignment for Overwatch, a very popular game created by Blizzard Entertainment. API calls were very new to us (potentially the first one we've done?) when this was created.
 
 ####What is it?
 This project is to represent (or potentially clone) the look of the Overwatch Reddit forums. It brings in the live posts created, the title, who wrote it and a link to the physical post at Reddit.
