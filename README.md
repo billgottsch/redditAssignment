@@ -10,5 +10,5 @@ This was our introduction to JQuery and AJAX calls for The Iron Yard.
 
 
 ####Why keep it?
-It truly shows me how far I've come from where I started before beginning the bootcamp. I may make a couple minor adjustments to it, but I hope to preserve the beginnings of my learninings of Front-End Development to remind myself of just those things.
+It truly shows me how far I've come from where I started before beginning the bootcamp. I may make a couple minor adjustments to it, but I hope to preserve the beginning of my learnings of Front-End Development to remind myself of just those things.
 
